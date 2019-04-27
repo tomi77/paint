@@ -1,0 +1,7 @@
+#include "Figure.h"
+#include "Line.h"
+#include "Ellipse.h"
+#include "Rectangle.h"
+#include "RoundRectangle.h"
+#include "Arc.h"
+#include "Chord.h"
